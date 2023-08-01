@@ -2,7 +2,7 @@
 
  Meu nome é Isabelly Germano
 
--Estou estudando no Alura
+-Estou estudando no [Alura] (https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo este espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
